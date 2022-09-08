@@ -7,7 +7,7 @@
  */
 :root {
   --ngreen: #42855B;
-  --blue: #007bff;
+  --blue: #62C3E7;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -2378,13 +2378,13 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #212529;
-  background-color: #ed7399;
+  background-color: #62C3E7;
   border-color: #eb6891;
 }
 
 .btn-primary:focus, .btn-primary.focus {
   color: #212529;
-  background-color: #ed7399;
+  background-color: #62C3E7;
   border-color: #eb6891;
   box-shadow: 0 0 0 0.2rem rgba(210, 132, 157, 0.5);
 }
